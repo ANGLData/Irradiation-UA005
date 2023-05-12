@@ -1,58 +1,137 @@
 {
     "Ar36": {
-        "error": 0.0001698266401380056,
+        "error": 0.0003176760812910374,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": true
         },
-        "fit": "Linear",
-        "value": 0.018634939168120604
+        "fit": "Parabolic",
+        "fn": 600,
+        "include_baseline_error": false,
+        "n": 600,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.018127787646145962
     },
     "Ar37": {
-        "error": 0.004149851169482872,
+        "error": 0.004149851179929785,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": true
         },
         "fit": "Linear",
-        "value": 0.1365984080505414
+        "fn": 571,
+        "include_baseline_error": false,
+        "n": 600,
+        "outlier_excluded": [
+            258,
+            259,
+            7,
+            18,
+            404,
+            24,
+            29,
+            34,
+            549,
+            557,
+            431,
+            52,
+            565,
+            183,
+            57,
+            65,
+            577,
+            195,
+            325,
+            205,
+            591,
+            340,
+            217,
+            348,
+            350,
+            102,
+            489,
+            369,
+            250
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.13659840774240373
     },
     "Ar38": {
-        "error": 0.009136810159336472,
+        "error": 0.009677585557667156,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": true
         },
         "fit": "Linear",
-        "value": 2.179052750074656
+        "fn": 592,
+        "include_baseline_error": false,
+        "n": 600,
+        "outlier_excluded": [
+            228,
+            236,
+            109,
+            110,
+            429,
+            567,
+            443,
+            63
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 2.180098298875089
     },
     "Ar39": {
-        "error": 0.016323811120208497,
+        "error": 0.018042733766679826,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": true
         },
         "fit": "Parabolic",
-        "value": 182.5281715027566
+        "fn": 600,
+        "include_baseline_error": false,
+        "n": 600,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 182.51926304935463
     },
     "Ar40": {
-        "error": 0.0301883094647729,
+        "error": 0.03505286626076626,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": true
         },
         "fit": "Parabolic",
-        "value": 539.5060549809828
+        "fn": 600,
+        "include_baseline_error": false,
+        "n": 600,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 539.5328734854754
     },
     "Ar41": {
         "error": 0.008852140575932553,
